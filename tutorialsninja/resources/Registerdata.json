@@ -1,0 +1,27 @@
+{
+  "valid": [
+    {
+      "firstname": "Tamil",
+      "lastname": "Arasu",
+      "email": "tamil001@testmail.com",
+      "telephone": "9876543210",
+      "password": "Tamil@123",
+      "confirmPassword": "Tamil@123",
+      "privacyPolicy": true
+    }
+  ],
+
+  
+  "invalid": [
+    {
+      "firstname": "",
+      "lastname": "Arasu",
+      "email": "tamil@testmail.com",
+      "telephone": "9876543210",
+      "password": "Tamil@123",
+      "confirmPassword": "Tamil@123",
+      "privacyPolicy": true,
+      "expectedError": "First Name is required"
+    }
+     ]
+}

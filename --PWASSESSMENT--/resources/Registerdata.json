@@ -1,0 +1,14 @@
+{
+  "valid": [
+    {
+      "firstname": "Tamil",
+      "lastname": "Arasu",
+      "email": "tamil0012356@testmail.com",
+      "telephone": "98765434410",
+      "password": "Tamil@123",
+      "confirmPassword": "Tamil@123"
+    }
+  ]
+  
+
+}
