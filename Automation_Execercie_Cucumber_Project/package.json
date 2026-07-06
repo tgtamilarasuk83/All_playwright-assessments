@@ -19,7 +19,7 @@
     "allure-commandline": "2.34.1",
     "allure-cucumberjs": "3.0.0-beta.6",
     "cross-env": "10.1.0",
-    "multiple-cucumber-html-reporter": "^4.0.0",
+    "multiple-cucumber-html-reporter": "^3.5.0",
     "ts-node": "10.9.2"
   },
   "dependencies": {
